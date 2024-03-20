@@ -1,2 +1,3 @@
-# template
-Template Repository for OpenSpringFest
+# The Hidden Language of Consumers: Decoding Unseen Patterns
+
+In this project, we unravel the behavior of consumers and its complexities. Through meticulous exploratory data analysis, univariate and bivariate analysis and other methods, we strive to decode the unseen patterns that drive customer choices. The project will provide businesses with the strategic insights needed to tailor their offerings to the market.

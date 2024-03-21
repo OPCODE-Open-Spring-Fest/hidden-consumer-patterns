@@ -1,4 +1,4 @@
-ClientID	BirthYear	AcademicLevel	RelationshipStatus	AnnualIncome	ChildrenAtHome	TeensAtHome	EnrollmentDate	LastPurchaseDays	WineSpending	FruitSpending	MeatSpending	FishSpending	SweetSpending	GoldSpending	DiscountedPurchases	WebPurchases	CatalogPurchases	NumStorePurchases	NumWebVisitsMonth	Campaign3Success	Campaign4Success	Campaign5Success	Campaign1Success	Campaign2Success	RecentComplaint	Z_CostContact	Z_Revenue	LastCampaignResponse
+ClientID	BirthYear	AcademicLevel	RelationshipStatus	AnnualIncome	ChildrenAtHome	TeensAtHome	EnrollmentDate	LastPurchaseDays	WineSpending	FruitSpending	MeatSpending	FishSpending	SweetSpending	GoldSpending	DiscountedPurchases	WebPurchases	CatalogPurchases	StorePurchases	WebVisitsMonth	Campaign3Success	Campaign4Success	Campaign5Success	Campaign1Success	Campaign2Success	RecentComplaint	Z_CC	Z_R	LastCampaignResponse
 5524	1957	Graduation	Single	58138	0	0	04-09-2012	58	635	88	546	172	88	88	3	8	10	4	7	0	0	0	0	0	0	3	11	1
 2174	1954	Graduation	Single	46344	1	1	08-03-2014	38	11	1	6	2	1	6	2	1	1	2	5	0	0	0	0	0	0	3	11	0
 4141	1965	Graduation	Together	71613	0	0	21-08-2013	26	426	49	127	111	21	42	1	8	2	10	4	0	0	0	0	0	0	3	11	0
